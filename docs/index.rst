@@ -101,6 +101,7 @@ verl is fast with:
    perf/dpsk.md
    perf/best_practices
    perf/perf_tuning
+   perf/gemma4_mixed_attention.md
    perf/perf_tuning_on_ascend.rst
    README_vllm0.8.md
    perf/device_tuning
